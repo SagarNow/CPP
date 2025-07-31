@@ -1,6 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 int main(){
+    // string - collection of characters "" , character is denoted by ''
     string s = "Sagar";
     int len = s.length();
     cout << "length of string is: " << len << "\n";
