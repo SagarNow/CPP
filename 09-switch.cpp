@@ -26,6 +26,5 @@ switch (day) {
     default: cout << "invalid day";
     break;
 }
-
     return 0; 
 }
